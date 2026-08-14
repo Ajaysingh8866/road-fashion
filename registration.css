@@ -1,0 +1,135 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.conatiner{
+  width: 100%;
+}
+.wrap_100{
+  width: 100%;
+  display: flex;
+
+}
+ .wrap_50{
+  width: 50%;
+  height: 100vh;
+  background-color: #6C6867;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .trap_100{
+  width: 50%;
+  height: 60%;
+ border-radius: 10px;
+  box-shadow: rgba(160, 158, 158, 0.56) 0px 22px 70px 4px;
+  text-align: center;
+ }
+  .inneredi{
+    margin-top: 40%;
+     
+  }
+  .inneredi p{
+    margin-top: 20px;
+  }
+  .btn1{
+    margin-top: 30px;
+    
+  }
+  .btn1 button{
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+  }
+  .btn1 button:hover{
+    background-color: #b2a57d;
+    color: black;
+   }
+   .button a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+   }
+
+   .innercont{
+    width: 50%;
+    height: 60%;
+     box-shadow: rgba(206, 191, 191, 0.56) 0px 22px 70px 4px;
+    
+   }
+   .innercont h1{
+    margin-left:100px;
+    margin-top: 20px;
+   }
+   .somecon{
+    display: flex;
+    gap: 10px;
+    margin-left: 140px;
+    margin-top: 20px;
+   
+   }
+   .name{
+    margin-left: 100px;
+    margin-top: 20px;
+   }
+   .email{
+    margin-left: 100px;
+    margin-top: 20px;
+   }
+   .pasww{
+     margin-left: 100px;
+     margin-top: 20px;
+   }
+   .some1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid;
+   }
+   #inne43{
+    margin-top: 10px;
+    margin-left: 10px;
+   }
+
+   .inte1{
+    position: relative;
+    padding: 10px 20px 10px 20px;
+    background-color: #e0d9d7;
+    color: black
+   }
+   #into1{
+    position: absolute;
+    margin-top: 10px;
+    z-index: 111;
+    margin-left: 5px;
+   }
+   .inner1{
+    position: relative;
+    padding: 10px 20px 10px 20px;
+    background-color: #e0d9d7;
+    color: black
+   }
+   #newi1{
+    position: absolute;
+    z-index: 11;
+    margin-top: 10px;
+    margin-left: 5px;
+   }
+   #newi3{
+     position: absolute;
+    z-index: 11;
+     margin-top: 10px;
+    margin-left: 5px;
+   }
+   .inner2{
+    position:relative;
+    padding: 10px 20px 10px 20px;
+    background-color: #e0d9d7;
+    color: black
+   }
+    .submi button{
+      padding: 10px 20px 10px 20px;
+      margin-top: 20px;
+      margin-left:160px;
+    }
+  
